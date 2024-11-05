@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class DrawShape {
+    // [Thực hành] Thiết kế menu cho ứng dụng (v.2023)
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
