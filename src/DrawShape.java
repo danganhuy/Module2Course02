@@ -48,7 +48,7 @@ public class DrawShape {
                 System.out.println("*************");
                 System.out.println("   *******   ");
                 System.out.println("      *      ");
-            case 0:
+            case 5:
                 System.exit(0);
             default:
                 System.out.println("No choice!");
